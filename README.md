@@ -18,9 +18,9 @@ Feel free to add your links!
 ### Queues
  * Kafka: https://kafka.apache.org/
  * RabbitMQ: 
-	 *  https://www.rabbitmq.com/
-	 * https://www.slideshare.net/old_sound/pivotal-labs
-	 * https://www.slideshare.net/old_sound/dissecting-the-rabbit 
+ *  https://www.rabbitmq.com/
+ * https://www.slideshare.net/old_sound/pivotal-labs
+ * https://www.slideshare.net/old_sound/dissecting-the-rabbit 
 
 
 ### Distributed databases:
