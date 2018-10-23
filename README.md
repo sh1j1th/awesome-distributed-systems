@@ -25,7 +25,7 @@ Feel free to add your links!
 
 ### Distributed databases:
  * Cassandra: https://en.wikipedia.org/wiki/Apache_Cassandra
- * Dynamo https://en.wikipedia.org/wiki/Dynamo_%28storage_system%29
+ * Dynamo: https://en.wikipedia.org/wiki/Dynamo_%28storage_system%29
  * Riak: https://en.wikipedia.org/wiki/Riak
  * Couchbase: https://en.wikipedia.org/wiki/Couchbase
  * Data Access for Highly-Scalable Solutions: Using SQL, NoSQL, and Polyglot Persistence:  https://msdn.microsoft.com/en-us/library/dn313285.aspx
@@ -49,12 +49,12 @@ Operational transform: https://en.wikipedia.org/wiki/Operational_transformation
 
 
 ## Classes: 
-* Cool: http://css.csail.mit.edu/6.824/2014/schedule.html
-* Appunti: https://github.com/aphyr/distsys-class
+ * Cool: http://css.csail.mit.edu/6.824/2014/schedule.html
+ * Appunti: https://github.com/aphyr/distsys-class
  * edX: https://courses.edx.org/courses/course-v1:KTHx+ID2203.1x+3T_2017/course/
  * https://learning-modules.mit.edu/class/index.html?uuid=/course/6/fa15/6.852#info by Lynch
-	 * Plus: readings: http://courses.csail.mit.edu/6.852/15/reading.html 
-	 * https://roxanageambasu.github.io/04-teaching/
+ * Plus: readings: http://courses.csail.mit.edu/6.852/15/reading.html 
+ * https://roxanageambasu.github.io/04-teaching/
 
 ## Books
 
